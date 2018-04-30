@@ -18,10 +18,10 @@ This application has been developed to raise user awareness for the constant and
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/app/org.secuso.privacyfriendlynetmonitor)<a href="https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlynetmonitorapp"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60"></a>
 
 ### API Reference ###
-Mininum SDK: 17 Target SDK: 23 
+Mininum SDK: 22 Target SDK: 26 
 
 ### Setup ###
-* Android Studio 2.2.2
+* Android Studio 3.0.1
 
 ### Future Enhancements ###
 possible additional features
@@ -53,10 +53,12 @@ App Icon:</br>
 Markus Hau
 
 Developer:</br>
-Felix Tsala Schiller
+Felix Tsala Schiller</br>
+Tobias Burger</br>
+Marco Egermaier
 
 Contributors (Github):</br>
-Yonjuni </br>
+Yonjuni</br>
 Kamuno</br>
 di72nn</br>
 stevesoltys</br>
